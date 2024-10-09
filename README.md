@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence, Web App Development, and Data Science
 - 🌱 I’m currently an undergraduate student major in Computer Science
 - 💞️ I’m looking to collaborate on AI/ML at this moment.
-- 📫 How to reach me: email me at letyang23@icloud.com
+- 📫 How to reach me: email me at letiany.work@gmail.com
 
 <!---
 letyang23/letyang23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
